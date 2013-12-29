@@ -1,6 +1,6 @@
 Christmas Tree
 ==============
-A Javascript Christmas Tree in 225 Bytes!
+A Javascript Christmas Tree in 224 Bytes!
 
 [Demo](http://htmlpreview.github.io/?https://github.com/rlauck/atree/blob/master/index.html)
 
