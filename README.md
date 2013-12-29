@@ -1,11 +1,11 @@
-Christmas Tree
+Christmas Tree: a Javascript Christmas Tree in 228 Bytes!
 ===============
-
-Golfed Javascript Christmas tree in 234 bytes!
 
 [Demo](http://htmlpreview.github.io/?https://github.com/rlauck/atree/blob/master/index.html)
 
-Based on Andrei Kashcha's work at https://github.com/anvaka/atree
+Golfed by [me](https://github.com/rlauck) and [subzey](https://github.com/subzey)
+
+Based on the work of [Andrei Kashcha](https://github.com/anvaka/atree)
 
 # license
 
